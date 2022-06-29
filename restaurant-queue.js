@@ -54,7 +54,12 @@ const seatParty = () => {
     queue.shift()
 };
 
-const removePartyFromLine = (party) => {
+const removePartyFromLine = (partyId) => {
+    const partyToRemove = queue.findIndex(party => party.id === partyId)
+    if (partyToRemove >= 0) queue.splice(partyToRemove, 1)
+    else console.log("party does not exist")
+
+
     // return failure (some error code)
 };
 
@@ -73,19 +78,37 @@ const party3 = {
     size: 2
 }
 
-const party4 = {
+const party4 = {//should fail
     name: "test",
     size: 7
 }
+const party5 = {
+    name: "Kenobi",
+    size: 1
+}
+const party6 = {
+    name: "Palpatine",
+    size: 2
+}
 
 // console.log(queue)
-addPartyToLine(party1)
-addPartyToLine(party2)
+addPartyToLine(party1) //["Philip"]
+addPartyToLine(party2) //["Philip","Skywalker"]
 // console.log(queue)
 
-seatParty();
+seatParty();//[Skywalker"]
 
 addPartyToLine(party4)//should fail
+//[Skywalker"]
 // console.log(queue)
-addPartyToLine(party3)
+addPartyToLine(party3) //["Skywalker", "Batman"]
+addPartyToLine(party5)//["Skywalker", "Batman", "Kenobi"]
+addPartyToLine(party6)//["Skywalker", "Batman", "Kenobi", "Palpatine"]
 console.log(queue)
+
+removePartyFromLine(4)//["Skywalker", "Batman", "Palpatine"]
+
+
+console.log(queue)
+removePartyFromLine(7) //should fail
+                        //["Skywalker", "Batman", "Palpatine"]
