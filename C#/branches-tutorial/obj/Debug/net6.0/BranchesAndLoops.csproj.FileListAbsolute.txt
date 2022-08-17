@@ -1,0 +1,15 @@
+/home/pcricket10/random-code/C#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops
+/home/pcricket10/random-code/C#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops.deps.json
+/home/pcricket10/random-code/C#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops.runtimeconfig.json
+/home/pcricket10/random-code/C#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops.dll
+/home/pcricket10/random-code/C#/branches-tutorial/bin/Debug/net6.0/ref/BranchesAndLoops.dll
+/home/pcricket10/random-code/C#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops.pdb
+/home/pcricket10/random-code/C#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.csproj.AssemblyReference.cache
+/home/pcricket10/random-code/C#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/pcricket10/random-code/C#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.AssemblyInfoInputs.cache
+/home/pcricket10/random-code/C#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.AssemblyInfo.cs
+/home/pcricket10/random-code/C#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/home/pcricket10/random-code/C#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.dll
+/home/pcricket10/random-code/C#/branches-tutorial/obj/Debug/net6.0/ref/BranchesAndLoops.dll
+/home/pcricket10/random-code/C#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.pdb
+/home/pcricket10/random-code/C#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.genruntimeconfig.cache

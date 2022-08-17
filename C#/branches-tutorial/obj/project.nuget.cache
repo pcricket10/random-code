@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+b+iymoLaX3fkSIFjEFMuox5tztj1tj+g0Ybgvuz9MzadD4IAON7y9tIsr3q25wtGhNg7DVkmQnaw/NWlOBcA==",
+  "success": true,
+  "projectFilePath": "/home/pcricket10/random-code/C#/branches-tutorial/BranchesAndLoops.csproj",
+  "expectedPackageFiles": [
+    "/home/pcricket10/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
