@@ -1,7 +1,24 @@
 ﻿// ExploreIf();
-for (int index = 0; index < 10; index++)
+// ExploreLoops();
+int sum = 0;
+for (int i = 1; i <= 20; i++)
 {
-  Console.WriteLine($"Hello World! The index is {index}");
+  if (i % 3 == 0)
+  {
+    sum = sum + i;
+  }
+}
+Console.WriteLine($"Hello World! The sum is {sum}");
+
+
+void ExploreLoops()
+{
+  for (int index = 0; index < 10; index++)
+  {
+    Console.WriteLine($"Hello World! The index is {index}");
+  }
+
+
 }
 
 void ExploreIf()
