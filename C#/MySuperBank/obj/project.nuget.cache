@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AatGUvKthmfbEIY9zp1XlN8r4AvILPLJ+9r772lh81lar9mZ6qZflrfl0do49uxcLPGLr34hSNIO8Q9IFYpETA==",
+  "success": true,
+  "projectFilePath": "/home/pcricket10/random-code/C#/MySuperBank/MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "/home/pcricket10/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

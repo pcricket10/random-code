@@ -1,0 +1,15 @@
+/home/pcricket10/random-code/C#/MySuperBank/bin/Debug/net6.0/MySuperBank
+/home/pcricket10/random-code/C#/MySuperBank/bin/Debug/net6.0/MySuperBank.deps.json
+/home/pcricket10/random-code/C#/MySuperBank/bin/Debug/net6.0/MySuperBank.runtimeconfig.json
+/home/pcricket10/random-code/C#/MySuperBank/bin/Debug/net6.0/MySuperBank.dll
+/home/pcricket10/random-code/C#/MySuperBank/bin/Debug/net6.0/ref/MySuperBank.dll
+/home/pcricket10/random-code/C#/MySuperBank/bin/Debug/net6.0/MySuperBank.pdb
+/home/pcricket10/random-code/C#/MySuperBank/obj/Debug/net6.0/MySuperBank.csproj.AssemblyReference.cache
+/home/pcricket10/random-code/C#/MySuperBank/obj/Debug/net6.0/MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/pcricket10/random-code/C#/MySuperBank/obj/Debug/net6.0/MySuperBank.AssemblyInfoInputs.cache
+/home/pcricket10/random-code/C#/MySuperBank/obj/Debug/net6.0/MySuperBank.AssemblyInfo.cs
+/home/pcricket10/random-code/C#/MySuperBank/obj/Debug/net6.0/MySuperBank.csproj.CoreCompileInputs.cache
+/home/pcricket10/random-code/C#/MySuperBank/obj/Debug/net6.0/MySuperBank.dll
+/home/pcricket10/random-code/C#/MySuperBank/obj/Debug/net6.0/ref/MySuperBank.dll
+/home/pcricket10/random-code/C#/MySuperBank/obj/Debug/net6.0/MySuperBank.pdb
+/home/pcricket10/random-code/C#/MySuperBank/obj/Debug/net6.0/MySuperBank.genruntimeconfig.cache
