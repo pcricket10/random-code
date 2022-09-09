@@ -1,0 +1,12 @@
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/StringLibrary.deps.json
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/StringLibrary.dll
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/ref/StringLibrary.dll
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/StringLibrary.pdb
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.csproj.AssemblyReference.cache
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.AssemblyInfoInputs.cache
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.AssemblyInfo.cs
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.csproj.CoreCompileInputs.cache
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.dll
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/ref/StringLibrary.dll
+/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.pdb

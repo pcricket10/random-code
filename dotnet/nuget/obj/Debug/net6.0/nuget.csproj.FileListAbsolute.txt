@@ -1,0 +1,17 @@
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/nuget.csproj.AssemblyReference.cache
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/nuget.GeneratedMSBuildEditorConfig.editorconfig
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/nuget.AssemblyInfoInputs.cache
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/nuget.AssemblyInfo.cs
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/nuget.csproj.CoreCompileInputs.cache
+/home/pcricket10/random-code/dotnet/nuget/bin/Debug/net6.0/nuget
+/home/pcricket10/random-code/dotnet/nuget/bin/Debug/net6.0/nuget.deps.json
+/home/pcricket10/random-code/dotnet/nuget/bin/Debug/net6.0/nuget.runtimeconfig.json
+/home/pcricket10/random-code/dotnet/nuget/bin/Debug/net6.0/nuget.dll
+/home/pcricket10/random-code/dotnet/nuget/bin/Debug/net6.0/ref/nuget.dll
+/home/pcricket10/random-code/dotnet/nuget/bin/Debug/net6.0/nuget.pdb
+/home/pcricket10/random-code/dotnet/nuget/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/nuget.csproj.CopyComplete
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/nuget.dll
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/ref/nuget.dll
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/nuget.pdb
+/home/pcricket10/random-code/dotnet/nuget/obj/Debug/net6.0/nuget.genruntimeconfig.cache

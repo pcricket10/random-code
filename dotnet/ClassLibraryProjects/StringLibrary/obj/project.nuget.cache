@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+1tK7nSbUSbyVAW0mHIMZE3mPgLTNbXUdDqDkbvFcr36xuLHe4/73XP910vy5ndai8SwaYU2EBy1fB0n/KGfcg==",
+  "success": true,
+  "projectFilePath": "/home/pcricket10/random-code/C#/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/pcricket10/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
