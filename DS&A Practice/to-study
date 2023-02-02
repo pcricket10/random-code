@@ -5,5 +5,7 @@ longest-streak
 create-linked-list
 add-lists.js
 depth-first-values.js
-max-root-to-leaf-path-sum
+max-root-to-leaf-path-sum.js
+tree-path-finder.js
+tree-value-count.js
 
