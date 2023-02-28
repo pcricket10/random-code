@@ -9,3 +9,4 @@ max-root-to-leaf-path-sum.js
 tree-path-finder.js
 tree-value-count.js
 how-high.js
+all-tree-paths.js
